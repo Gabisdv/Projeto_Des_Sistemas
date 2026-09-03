@@ -11,3 +11,14 @@
  ## Semana 2
  - Aprendendo Diagrama de Casos de Uso
  - Resolvendo exercícios Diagrama de Casos de Uso
+
+## Semana 3
+- Elaborar a especificação (descrição) de caso de uso;
+- Traduzir um fluxo de eventos de um caso de uso em um Diagrama de Sequência;
+- Compreender a lógica de interação entre objetos em um Diagrama de Sequência.
+
+## Semana 5
+- Compreender o papel do diagrama de classes;
+- Entender os elementos constituintes do diagrama de classes;
+- Utilizar o diagrama de classes no auxílio de resolução de problemas de projeto de software de baixa complexidade.
+
