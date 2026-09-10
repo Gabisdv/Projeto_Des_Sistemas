@@ -22,3 +22,5 @@
 - Entender os elementos constituintes do diagrama de classes;
 - Utilizar o diagrama de classes no auxílio de resolução de problemas de projeto de software de baixa complexidade.
 
+## Semana 6
+-  Integrar os conhecimentos de Elicitação de Requisitos (Casos de Uso), Comportamento (Sequência) e Estrutura (Classes) na modelagem de um aplicativo financeiro.
