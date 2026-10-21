@@ -29,3 +29,20 @@
 - Identificar classes, atributos e métodos a partir das regras de negócio e/ou da descrição de casos de uso;
 - Elaborar o diagrama de classes a partir de casos de uso de um problema;
 - Criar código em linguagem Java a partir do diagrama de classes.
+
+## Semana 8
+- Compreender e Aplicar o diagrama de casos de uso para modelar requisitos funcionais em projeto de software;
+- Compreender e Usar o diagrama de sequência para modelar as interações entre entidades externas e objetos componentes de um software em fase de desenvolvimento;
+- Compreender e Usar o diagrama de classes para representar a estrutura de classes, relacionamentos, atributos e métodos de um software em desenvolvimento.
+
+## Semana 9
+- Participação em eventos da Semana da Tecnologia.
+
+## Semana 10
+- Compreender o uso de classe abstrata em diagrama de classes;
+- Compreender o papel das dos diferentes níveis de visibilidade ou acesso de atributos e métodos: público, protegido e privado.
+- Conhecer o diagrama de interação: Diagrama de Comunicação.
+
+## Semana 11
+- Compreender e utilizar o Diagrama de Estados ou de Máquina de Estados para demonstrar o ciclo de vida de um objeto;
+- Utilizar a notação Mermaid para criar diagramas com código.
